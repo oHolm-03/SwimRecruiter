@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+python-dotenv
+pillow                                  # If we allow profile photo uploads
+psycopg2-binary                         # Ready for if/when we add SQL
