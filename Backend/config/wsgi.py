@@ -1,3 +1,4 @@
+#deployment entry point (rarely touched)
 """
 WSGI config for SwimRecruiter project.
 

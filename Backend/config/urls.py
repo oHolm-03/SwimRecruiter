@@ -1,3 +1,4 @@
+#root URL router that points to each app's urls.py
 """
 URL configuration for SwimRecruiter project.
 

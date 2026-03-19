@@ -1,0 +1,1 @@
+#Conversation (between two users) and Message (sender, content, timestamp)

@@ -1,1 +1,1 @@
-# Register, login, logout, me endpoints
+# Register, login, logout, and current user endpoints

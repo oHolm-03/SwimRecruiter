@@ -1,1 +1,1 @@
-# User model with role field (athlete/coach)
+# Custom user model with role field (athlete/coach)

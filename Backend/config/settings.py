@@ -1,3 +1,4 @@
+#project settings, installed apps, database config, JWT config, CORS allowed origins
 """
 Django settings for SwimRecruiter project.
 

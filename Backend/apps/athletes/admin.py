@@ -1,0 +1,1 @@
+#register models to appear in Django's admin panel

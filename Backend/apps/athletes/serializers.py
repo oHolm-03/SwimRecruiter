@@ -1,0 +1,1 @@
+#full profile serializer and a smaller summary card serializer for search results

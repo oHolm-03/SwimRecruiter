@@ -1,3 +1,4 @@
+#deployment entry point (rarely touched)
 """
 ASGI config for SwimRecruiter project.
 

@@ -1,0 +1,1 @@
+#lightweight serializers optimized for returning search results quickly
